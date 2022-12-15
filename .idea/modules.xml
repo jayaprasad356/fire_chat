@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FireChat.iml" filepath="$PROJECT_DIR$/.idea/modules/FireChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireChat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireChat.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireChat.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireChat.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireChat.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireChat.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FireChat.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FireChat.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraView/FireChat.cameraView.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditengine/FireChat.imageeditengine.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stories-progress-view/FireChat.stories-progress-view.unitTest.iml" />
+    </modules>
+  </component>
+</project>
